@@ -24,3 +24,10 @@ The idea would be to develop a robust OCR system capable of revognizing both han
 [Optical character recognition using deep learning](https://dspace5.zcu.cz/bitstream/11025/48953/1/Thesis___Pavel_Andrlik.pdf) <br>
 [A Survey of Deep Learning Approaches for OCR and Document Understanding](https://ml-retrospectives.github.io/neurips2020/camera_ready/29.pdf) <br>
 [Optical Character Recognition using Deep learning – A Technical Review](https://www.researchgate.net/publication/326009476_Optical_Character_Recognition_using_Deep_learning_-_A_Technical_Review) <br>
+
+## Ideas for me
+- experiment with CNN and RNN or maybe also transformer based models for sequence recogntiton
+- use appropriate loss functions CTC
+- evaluation- depends on the paper
+- data augmentation with rotations, scaling and noise  <br>
+.... to be continued
