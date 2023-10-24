@@ -4,7 +4,7 @@ Taranpreet Kaur Bambrah 11717209
 
 ## Topic: Optical Character Recognition (OCR)
 **Optical Character Recognition (OCR)** is a classic problem in computer vision where the goal is to recognize and interpret text from images or scanned documents. Traditional OCR methods often involve complex pre-processing techniques, feature engineereing and classical machine learning algortihms such as SVM. <br>
-In this project, the goald would be to leverage deep learning techniques to beat the performance of traditional OCR methods. So the type of this project would be **"Beat the classics"**.  <br>
+In this project, the goal would be to leverage deep learning techniques to beat the performance of traditional OCR methods. So the type of this project would be **"Beat the classics"**.  <br>
 The datasets that I would be using are the famous MNIST (handwritten digits) and EMNIST (handwrittten letters). <br>
 The idea would be to develop a robust OCR system capable of revognizing both handwritten digits and handwritten letters accurately. Therefore I would be using CNNs and LSTM.
 
