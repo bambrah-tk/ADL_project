@@ -20,3 +20,7 @@ The idea would be to develop a robust OCR system capable of revognizing both han
 (days doesn't mean full days, it means spending some hours at a day)
 
 ## References to scientific papers
+[Optical Character Recognition via Deep Learning](https://cs230.stanford.edu/files_winter_2018/projects/6910235.pdf) <br>
+[Optical character recognition using deep learning](https://dspace5.zcu.cz/bitstream/11025/48953/1/Thesis___Pavel_Andrlik.pdf) <br>
+[A Survey of Deep Learning Approaches for OCR and Document Understanding](https://ml-retrospectives.github.io/neurips2020/camera_ready/29.pdf) <br>
+[Optical Character Recognition using Deep learning – A Technical Review](https://www.researchgate.net/publication/326009476_Optical_Character_Recognition_using_Deep_learning_-_A_Technical_Review) <br>
