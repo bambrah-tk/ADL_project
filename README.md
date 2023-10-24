@@ -1,14 +1,22 @@
 # ADL_project
-Applied Deep Learing Project WS2023
+Applied Deep Learing Project WS2023 <br>
 Taranpreet Kaur Bambrah 11717209
-## 1. References to at least two scientific papers that are related to your topic
 
-## 2. A decision of a topic of your choice
+## Topic: Optical Character Recognition (OCR)
+**Optical Character Recognition (OCR)** is a classic problem in computer vision where the goal is to recognize and interpret text from images or scanned documents. Traditional OCR methods often involve complex pre-processing techniques, feature engineereing and classical machine learning algortihms such as SVM. In this project, the goald would be to leverage deep learning techniques to beat the performance of traditional OCR methods. So the type of this project would be **"Beat the classics"**.  <br>
+The datasets that I would be using are the famous MNIST (handwritten digits) and EMNIST (handwrittten letters). <br>
+The idea would be to develop a robust OCR system capable of revognizing both handwritten digits and handwritten letters accurately. Therefore I would be using CNNs and LSTM.
 
-## 3. A decision of which type of project you want to do
+## Work-breakdown structure:
+- Data Preprocessing: 5 days
+- Model Design and Architecture Selection: 5 days
+- Training and Fine-Tuning:  10 days
+- Evaluation and Comparison: 2 days
+- Improvement Iterations: 5 days
+- Building Application : 10 days
+- Preparing Presentation: 2 days 
+- Documentation and Writing Final Report: 3 days
 
-## 4. A written summary that should contain:
+(days doesn't mean full days, it means spending some hours at a day)
 
-### a. Short description of your project idea and the approach you intend to use
-### b. Description of the dataset you are about to use (or collect)
-### c. A work-breakdown structure for the individual tasks with time estimates (hours or days) for dataset collection; designing and building an appropriate network; training and fine-tuning that network; building an application to present the results; writing the final report; preparing the presentation of your work.
+## References to scientific papers
