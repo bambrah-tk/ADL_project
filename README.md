@@ -2,11 +2,27 @@
 Applied Deep Learing Project WS2023 <br>
 Taranpreet Kaur Bambrah 11717209
 
-## Topic: Optical Character Recognition (OCR)
+## Assignment 2: Hacking
+### Clarification on Assignment Misunderstanding
+In the early stages of the project, there was a misinterpretation of the initial assignment's requirements. The assignment called for the identification of a paper that addressed our Optical Character Recognition (OCR) problem—specifically, recognizing words—using a traditional machine learning algorithm. The subsequent objective was to surpass the performance of the traditional approach by implementing a deep learning algorithm and then conduct a comparative analysis. <br>
+Regrettably, the misunderstanding led to a divergence in the planned approach. Rather than identifying a specific paper as a benchmark, the focus initially shifted towards surpassing a generic traditional OCR method. Consequently, the project currently lacks a predetermined traditional algorithm for direct comparison. <br>
+I am engaged in an ongoing search to identify a suitable traditional OCR paper that aligns with the assignmnet requirements.
+
+### Evaluation of the Project Scope and Shifiting Focus to Word Recognition
+Initially, the project was conceived with the intention of implementing Optical Character Recognition (OCR) specifically tailored for recognizing digits. <br>
+In the preliminary stages, experiments were conducted using the MNIST dataset, a well-known benchmark for digit recognition. Convolutional Neural Networks (CNNs) were employed to capture spatial hierarchies and patterns within the digit images. <br>
+As the project unfolded, a pivotal decision was made to expand the scope beyond digit recognition. The transition from recognizing individual digits to complete words introduced a richer and more complex dimension to the OCR task. This shift was inspired by the recognition of the broader applications of OCR in real-world scenarios, where interpreting entire words is often more relevant than isolated digits. <br>
+To explore word recognition, the IAM Handwritten Dataset was introduced to the project. This dataset contains handwritten samples of words, each already segmented into individual units. The decision to leverage this dataset was driven by its compatibility with the revised project objective, allowing for a seamless transition to word recognition. <br>
+The IAM Handwritten Dataset is a collection of handwritten text samples that have been transcribed and segmented into individual words, providing a well-curated dataset for the task of word recognition. <br>
+
+In the scope of this project, the focus is explicitly on the text recognition component of Optical Character Recognition (OCR), rather than addressing the text detection step. <br>
+
+
+## Topic: Optical Character Recognition (OCR) (Assignment 1 Initiate)
 **Optical Character Recognition (OCR)** is a classic problem in computer vision where the goal is to recognize and interpret text from images or scanned documents. Traditional OCR methods often involve complex pre-processing techniques, feature engineereing and classical machine learning algortihms such as SVM. <br>
 In this project, the goal would be to leverage deep learning techniques to beat the performance of traditional OCR methods. So the type of this project would be **"Beat the classics"**.  <br>
 The datasets that I would be using are the famous MNIST (handwritten digits) and EMNIST (handwrittten letters). <br>
-The idea would be to develop a robust OCR system capable of revognizing both handwritten digits and handwritten letters accurately. Therefore I would be using CNNs and LSTM.
+The idea would be to develop a robust OCR system capable of recognizing both handwritten digits and handwritten letters accurately. Therefore I would be using CNNs and LSTM.
 
 ## Work-breakdown structure:
 - Data Preprocessing: 5 days
