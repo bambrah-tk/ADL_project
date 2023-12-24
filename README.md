@@ -17,6 +17,10 @@ The IAM Handwritten Dataset is a collection of handwritten text samples that hav
 
 In the scope of this project, the focus is explicitly on the text recognition component of Optical Character Recognition (OCR), rather than addressing the text detection step. <br>
 
+### References
+[Handwritten-word-recognition-OCR----IAM-dataset---CNN-and-BiRNN](https://github.com/naveen-marthala/Handwritten-word-recognition-OCR----IAM-dataset---CNN-and-BiRNN) <br>
+[handwritten_text_detection_and_recognition](https://github.com/furqan4545/handwritten_text_detection_and_recognition/tree/master) <br>
+[Word-recognition](https://www.kaggle.com/code/prasadmshaivas/word-recognition) <br>
 
 ## Topic: Optical Character Recognition (OCR) (Assignment 1 Initiate)
 **Optical Character Recognition (OCR)** is a classic problem in computer vision where the goal is to recognize and interpret text from images or scanned documents. Traditional OCR methods often involve complex pre-processing techniques, feature engineereing and classical machine learning algortihms such as SVM. <br>
