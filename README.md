@@ -2,6 +2,10 @@
 Applied Deep Learing Project WS2023 <br>
 Taranpreet Kaur Bambrah 11717209
 
+## Assignment 3: Deliver
+In this project, an Optical Character Recognition (OCR) Streamlit App has been developed for efficient deployment and usage of a trained OCR model. The app allows users to upload image(s), and the model performs OCR to extract text from the image(s).<br>
+This deployment includes two versions of the Streamlit app: app.py and app1.py, each serving different purposes. The app.py version allows users to upload a single image for OCR processing, while the app1.py version enables users to upload multiple images simultaneously. This flexibility caters to varying user needs and scenarios, enhancing the overall utility of the OCR Streamlit App.
+
 ## Assignment 2: Hacking
 ### Clarification on Assignment Misunderstanding
 In the early stages of the project, there was a misinterpretation of the initial assignment's requirements. The assignment called for the identification of a paper that addressed our Optical Character Recognition (OCR) problem—specifically, recognizing words—using a traditional machine learning algorithm. The subsequent objective was to surpass the performance of the traditional approach by implementing a deep learning algorithm and then conduct a comparative analysis. <br>
